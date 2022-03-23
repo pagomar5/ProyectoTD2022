@@ -1,0 +1,6 @@
+---
+title: "Prueba"
+output: html_notebook
+---
+
+Esto es una prueba
